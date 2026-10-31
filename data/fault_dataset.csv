@@ -1,0 +1,601 @@
+motor_current,motor_temperature,vibration,sensor_status,voltage,vfd_fault,plc_communication,machine_running,fault_type
+11.43,35.28,0.62,0,218.46,0,1,1,Sensor Failure
+6.0,40.79,1.43,1,238.6,0,0,1,PLC Communication Failure
+9.18,48.26,1.11,1,237.07,0,1,1,Normal Operation
+29.89,84.25,3.79,1,235.98,0,1,1,Motor Overload
+8.14,46.79,0.84,0,231.34,0,1,1,Sensor Failure
+0.26,55.48,0.69,1,177.27,0,1,0,Power Supply Failure
+19.64,88.44,3.17,1,220.85,0,1,1,Motor Overload
+8.31,59.54,2.36,1,223.53,0,0,1,PLC Communication Failure
+24.16,84.52,2.72,1,225.84,0,1,1,Motor Overload
+0.28,37.83,2.99,1,234.25,1,1,0,VFD Fault
+28.36,99.11,2.49,1,217.96,0,1,1,Motor Overload
+11.95,52.54,0.51,0,215.41,0,1,1,Sensor Failure
+5.34,48.82,1.33,0,238.26,0,1,1,Sensor Failure
+7.48,38.71,0.97,1,223.29,0,1,1,Normal Operation
+1.04,42.86,2.07,1,224.7,1,1,0,VFD Fault
+2.24,50.17,2.34,1,171.46,0,1,0,Power Supply Failure
+26.87,102.17,2.52,1,235.1,0,1,1,Motor Overload
+2.61,59.27,2.94,1,184.55,0,1,0,Power Supply Failure
+6.82,47.56,2.0,0,227.15,0,1,1,Sensor Failure
+28.53,83.42,4.93,1,234.55,0,1,1,Motor Overload
+28.1,98.95,5.03,1,216.6,0,1,1,Motor Overload
+11.01,40.51,0.5,1,229.96,0,1,1,Normal Operation
+11.91,41.67,2.54,1,219.22,0,1,1,Normal Operation
+5.4,37.42,2.32,1,236.6,0,1,1,Normal Operation
+1.16,36.82,1.42,1,221.36,1,1,0,VFD Fault
+6.1,35.35,1.12,1,237.85,0,1,1,Normal Operation
+24.44,83.48,2.29,1,235.93,0,1,1,Motor Overload
+11.88,63.59,2.75,0,239.61,0,1,1,Sensor Failure
+7.2,39.24,1.17,1,236.49,0,1,1,Normal Operation
+7.24,43.82,1.86,1,227.48,0,0,1,PLC Communication Failure
+11.56,42.72,1.73,1,219.34,0,1,1,Normal Operation
+11.47,60.3,1.11,0,237.82,0,1,1,Sensor Failure
+28.35,90.22,4.0,1,229.68,0,1,1,Motor Overload
+2.39,41.02,0.96,1,173.68,0,1,0,Power Supply Failure
+10.28,59.59,0.8,0,236.31,0,1,1,Sensor Failure
+8.45,58.19,1.18,1,227.36,0,0,1,PLC Communication Failure
+6.95,41.06,2.38,0,237.03,0,1,1,Sensor Failure
+7.9,50.76,1.29,1,217.61,0,1,1,Normal Operation
+9.23,46.88,0.6,1,217.5,0,0,1,PLC Communication Failure
+1.74,41.05,2.72,1,175.49,0,1,0,Power Supply Failure
+2.7,48.57,1.54,1,219.75,1,1,0,VFD Fault
+26.45,83.65,4.03,1,218.3,0,1,1,Motor Overload
+11.87,57.17,1.66,1,220.5,0,1,1,Normal Operation
+6.55,38.42,2.15,1,234.52,0,1,1,Normal Operation
+21.82,108.08,2.66,1,227.88,0,1,1,Motor Overload
+6.55,54.68,2.68,0,219.81,0,1,1,Sensor Failure
+11.13,64.61,2.69,1,219.15,0,0,1,PLC Communication Failure
+8.19,50.48,1.12,0,216.64,0,1,1,Sensor Failure
+26.81,109.41,4.45,1,221.77,0,1,1,Motor Overload
+9.57,62.57,0.75,1,222.89,0,0,1,PLC Communication Failure
+0.68,52.05,1.88,1,168.26,0,1,0,Power Supply Failure
+1.21,40.09,0.99,1,193.48,0,1,0,Power Supply Failure
+11.96,55.24,1.6,0,226.91,0,1,1,Sensor Failure
+7.75,57.27,1.69,1,229.27,0,1,1,Normal Operation
+9.21,55.72,0.74,1,219.71,0,1,1,Normal Operation
+1.58,64.03,2.6,1,218.55,1,1,0,VFD Fault
+0.49,35.72,1.8,1,185.7,0,1,0,Power Supply Failure
+9.1,47.3,1.22,0,221.45,0,1,1,Sensor Failure
+6.12,60.56,0.91,0,221.33,0,1,1,Sensor Failure
+5.9,44.63,1.49,0,229.62,0,1,1,Sensor Failure
+24.78,84.91,2.66,1,220.23,0,1,1,Motor Overload
+5.24,54.57,1.59,0,234.37,0,1,1,Sensor Failure
+1.01,48.35,1.87,1,218.67,1,1,0,VFD Fault
+6.99,47.55,1.31,1,234.96,0,1,1,Normal Operation
+7.17,51.47,1.91,1,226.82,0,1,1,Normal Operation
+27.66,96.47,3.73,1,222.91,0,1,1,Motor Overload
+10.25,64.26,1.65,1,231.06,0,1,1,Normal Operation
+5.49,36.71,2.79,1,222.8,0,1,1,Normal Operation
+28.29,94.48,5.07,1,223.46,0,1,1,Motor Overload
+1.86,46.35,2.63,1,221.04,1,1,0,VFD Fault
+0.67,44.01,1.69,1,223.99,1,1,0,VFD Fault
+23.26,88.65,4.73,1,235.12,0,1,1,Motor Overload
+5.36,62.7,2.71,1,228.05,0,0,1,PLC Communication Failure
+2.61,53.37,2.39,1,236.06,1,1,0,VFD Fault
+6.02,41.8,1.87,1,220.38,0,0,1,PLC Communication Failure
+11.7,61.26,0.88,1,234.42,0,1,1,Normal Operation
+2.22,47.52,1.93,1,218.84,1,1,0,VFD Fault
+2.12,43.2,1.27,1,181.51,0,1,0,Power Supply Failure
+9.32,35.15,0.96,1,230.89,0,1,1,Normal Operation
+10.8,53.94,2.05,1,230.98,0,0,1,PLC Communication Failure
+1.48,49.18,1.75,1,192.84,0,1,0,Power Supply Failure
+6.94,36.6,2.85,1,238.43,0,0,1,PLC Communication Failure
+8.87,56.0,2.12,1,224.7,0,1,1,Normal Operation
+0.31,56.54,1.61,1,218.91,1,1,0,VFD Fault
+20.9,89.42,4.97,1,223.35,0,1,1,Motor Overload
+24.55,106.25,5.4,1,222.95,0,1,1,Motor Overload
+7.94,54.41,1.77,0,237.68,0,1,1,Sensor Failure
+2.83,56.24,2.58,1,190.26,0,1,0,Power Supply Failure
+2.9,58.16,1.45,1,229.69,1,1,0,VFD Fault
+1.57,46.3,2.05,1,178.85,0,1,0,Power Supply Failure
+0.82,40.96,2.07,1,191.84,0,1,0,Power Supply Failure
+5.46,42.24,0.65,1,228.72,0,1,1,Normal Operation
+25.67,104.04,2.95,1,216.29,0,1,1,Motor Overload
+1.82,35.65,2.62,1,218.88,1,1,0,VFD Fault
+0.11,47.06,1.06,1,176.98,0,1,0,Power Supply Failure
+2.53,58.9,1.15,1,172.39,0,1,0,Power Supply Failure
+1.49,40.07,2.84,1,168.22,0,1,0,Power Supply Failure
+23.47,104.42,2.67,1,231.61,0,1,1,Motor Overload
+9.08,52.56,2.14,1,233.01,0,0,1,PLC Communication Failure
+25.94,85.33,3.36,1,237.93,0,1,1,Motor Overload
+19.54,83.28,4.7,1,224.32,0,1,1,Motor Overload
+0.91,38.55,2.49,1,173.53,0,1,0,Power Supply Failure
+6.04,62.4,1.79,1,223.41,0,1,1,Normal Operation
+0.09,64.3,0.97,1,222.54,1,1,0,VFD Fault
+24.39,97.59,3.97,1,222.3,0,1,1,Motor Overload
+10.47,46.32,0.53,1,227.74,0,0,1,PLC Communication Failure
+8.15,42.36,0.95,0,225.34,0,1,1,Sensor Failure
+0.92,55.58,2.64,1,187.95,0,1,0,Power Supply Failure
+2.65,43.52,2.47,1,194.4,0,1,0,Power Supply Failure
+9.24,38.04,1.18,1,228.18,0,0,1,PLC Communication Failure
+10.06,46.67,0.74,0,219.15,0,1,1,Sensor Failure
+7.76,51.96,0.76,1,220.64,0,0,1,PLC Communication Failure
+11.67,40.86,2.9,1,234.02,0,1,1,Normal Operation
+10.9,36.7,2.44,1,224.41,0,1,1,Normal Operation
+1.29,62.29,2.48,1,216.47,1,1,0,VFD Fault
+1.67,42.73,0.97,1,218.1,1,1,0,VFD Fault
+1.82,38.92,2.52,1,238.42,1,1,0,VFD Fault
+10.56,41.36,2.06,0,233.77,0,1,1,Sensor Failure
+9.54,50.42,1.15,1,218.38,0,0,1,PLC Communication Failure
+5.18,42.87,1.66,1,215.77,0,0,1,PLC Communication Failure
+7.25,53.24,0.8,0,237.92,0,1,1,Sensor Failure
+22.34,80.92,3.75,1,228.98,0,1,1,Motor Overload
+1.95,51.69,1.04,1,236.51,1,1,0,VFD Fault
+9.32,53.31,2.97,1,217.21,0,1,1,Normal Operation
+6.37,55.39,1.04,0,229.64,0,1,1,Sensor Failure
+7.38,63.65,0.91,0,232.11,0,1,1,Sensor Failure
+8.83,62.57,2.69,1,237.9,0,1,1,Normal Operation
+0.06,48.39,1.07,1,181.62,0,1,0,Power Supply Failure
+10.79,54.18,2.34,1,232.79,0,1,1,Normal Operation
+5.03,48.36,1.34,1,219.15,0,0,1,PLC Communication Failure
+22.38,97.95,2.03,1,226.21,0,1,1,Motor Overload
+5.54,53.12,2.97,1,231.8,0,1,1,Normal Operation
+10.76,51.17,0.87,0,236.52,0,1,1,Sensor Failure
+11.94,50.94,2.73,0,233.74,0,1,1,Sensor Failure
+9.66,45.54,2.72,1,235.48,0,0,1,PLC Communication Failure
+7.51,47.26,2.67,0,229.73,0,1,1,Sensor Failure
+22.42,100.63,4.82,1,234.3,0,1,1,Motor Overload
+26.45,80.89,3.61,1,227.87,0,1,1,Motor Overload
+1.91,44.63,1.87,1,180.17,0,1,0,Power Supply Failure
+23.5,86.53,4.35,1,225.3,0,1,1,Motor Overload
+28.93,93.67,2.81,1,217.41,0,1,1,Motor Overload
+0.48,61.36,1.43,1,173.11,0,1,0,Power Supply Failure
+6.93,39.16,2.17,0,218.23,0,1,1,Sensor Failure
+27.55,94.69,5.94,1,216.02,0,1,1,Motor Overload
+11.54,46.56,2.59,1,216.88,0,0,1,PLC Communication Failure
+9.85,40.19,0.82,0,218.59,0,1,1,Sensor Failure
+1.06,37.36,1.46,1,219.52,1,1,0,VFD Fault
+5.87,40.94,2.41,1,217.42,0,0,1,PLC Communication Failure
+27.85,94.02,5.14,1,238.33,0,1,1,Motor Overload
+20.04,109.27,5.04,1,232.43,0,1,1,Motor Overload
+9.98,64.54,2.2,1,216.0,0,1,1,Normal Operation
+5.42,52.69,2.21,1,229.7,0,1,1,Normal Operation
+1.51,61.81,1.56,1,223.2,1,1,0,VFD Fault
+1.27,42.97,1.76,1,217.27,1,1,0,VFD Fault
+7.25,37.58,1.11,1,215.28,0,1,1,Normal Operation
+1.48,48.83,0.7,1,179.32,0,1,0,Power Supply Failure
+27.0,103.06,2.43,1,231.49,0,1,1,Motor Overload
+9.32,55.35,2.37,1,227.91,0,0,1,PLC Communication Failure
+10.17,44.51,2.31,0,232.7,0,1,1,Sensor Failure
+19.93,96.66,5.21,1,234.84,0,1,1,Motor Overload
+1.96,56.16,0.67,1,215.97,1,1,0,VFD Fault
+2.84,39.19,0.97,1,167.9,0,1,0,Power Supply Failure
+20.88,107.75,4.32,1,229.69,0,1,1,Motor Overload
+9.42,57.72,2.57,1,232.96,0,0,1,PLC Communication Failure
+0.35,48.39,2.88,1,231.27,1,1,0,VFD Fault
+8.88,41.23,2.88,0,219.09,0,1,1,Sensor Failure
+2.2,37.86,0.5,1,188.08,0,1,0,Power Supply Failure
+1.35,54.07,2.36,1,179.28,0,1,0,Power Supply Failure
+6.8,51.29,1.3,1,222.09,0,1,1,Normal Operation
+0.97,63.11,2.74,1,219.65,1,1,0,VFD Fault
+0.83,39.2,2.19,1,172.06,0,1,0,Power Supply Failure
+1.44,53.06,2.34,1,180.47,0,1,0,Power Supply Failure
+8.73,55.21,1.64,1,218.87,0,1,1,Normal Operation
+9.18,58.77,2.38,1,237.31,0,0,1,PLC Communication Failure
+5.81,46.7,0.85,0,234.36,0,1,1,Sensor Failure
+27.58,94.38,3.51,1,238.4,0,1,1,Motor Overload
+11.21,36.47,2.39,1,223.87,0,0,1,PLC Communication Failure
+27.85,95.98,4.53,1,231.31,0,1,1,Motor Overload
+22.83,105.6,3.2,1,236.32,0,1,1,Motor Overload
+1.19,42.15,1.76,1,182.48,0,1,0,Power Supply Failure
+6.7,49.4,1.15,0,223.06,0,1,1,Sensor Failure
+0.65,42.73,2.67,1,191.57,0,1,0,Power Supply Failure
+8.89,37.82,0.89,1,238.29,0,1,1,Normal Operation
+8.52,64.73,0.53,1,228.91,0,0,1,PLC Communication Failure
+8.69,46.26,2.92,1,219.32,0,0,1,PLC Communication Failure
+2.76,40.24,2.41,1,227.41,1,1,0,VFD Fault
+1.31,57.7,1.68,1,227.15,1,1,0,VFD Fault
+9.65,60.39,2.98,1,225.5,0,0,1,PLC Communication Failure
+1.1,44.81,1.26,1,221.27,1,1,0,VFD Fault
+1.57,62.39,1.12,1,185.34,0,1,0,Power Supply Failure
+8.59,59.22,1.39,1,225.26,0,0,1,PLC Communication Failure
+11.51,36.09,2.05,1,226.44,0,1,1,Normal Operation
+21.48,97.17,4.26,1,226.85,0,1,1,Motor Overload
+2.47,49.07,2.74,1,166.81,0,1,0,Power Supply Failure
+7.92,51.12,1.72,1,217.68,0,0,1,PLC Communication Failure
+2.65,59.82,1.95,1,183.93,0,1,0,Power Supply Failure
+6.79,50.33,2.87,1,224.53,0,0,1,PLC Communication Failure
+1.81,36.03,2.43,1,234.98,1,1,0,VFD Fault
+9.55,43.11,1.43,1,216.14,0,1,1,Normal Operation
+11.95,43.43,2.1,0,215.06,0,1,1,Sensor Failure
+6.05,63.85,1.49,0,232.06,0,1,1,Sensor Failure
+5.84,37.9,1.08,1,235.92,0,0,1,PLC Communication Failure
+10.88,46.9,1.49,1,221.15,0,0,1,PLC Communication Failure
+6.89,50.66,1.9,0,224.63,0,1,1,Sensor Failure
+0.69,44.62,2.13,1,178.04,0,1,0,Power Supply Failure
+2.72,54.25,1.53,1,171.92,0,1,0,Power Supply Failure
+1.67,43.04,2.02,1,175.34,0,1,0,Power Supply Failure
+1.88,52.1,0.89,1,170.02,0,1,0,Power Supply Failure
+0.79,55.44,0.98,1,189.36,0,1,0,Power Supply Failure
+10.26,59.8,1.86,1,230.5,0,0,1,PLC Communication Failure
+5.59,58.23,1.97,1,217.77,0,1,1,Normal Operation
+5.56,57.53,1.23,1,237.23,0,1,1,Normal Operation
+10.8,52.82,1.11,1,233.64,0,1,1,Normal Operation
+10.59,53.02,2.53,0,222.96,0,1,1,Sensor Failure
+2.36,60.56,1.74,1,165.16,0,1,0,Power Supply Failure
+8.72,42.45,2.69,0,223.48,0,1,1,Sensor Failure
+2.7,60.58,1.93,1,220.35,1,1,0,VFD Fault
+26.31,101.15,5.12,1,234.67,0,1,1,Motor Overload
+8.84,41.65,0.56,1,238.53,0,1,1,Normal Operation
+24.31,103.48,2.33,1,238.96,0,1,1,Motor Overload
+8.23,47.74,2.94,0,222.96,0,1,1,Sensor Failure
+5.22,39.32,2.04,1,220.81,0,0,1,PLC Communication Failure
+28.08,88.86,3.83,1,226.36,0,1,1,Motor Overload
+2.68,48.29,0.68,1,235.07,1,1,0,VFD Fault
+2.02,41.01,2.2,1,219.53,1,1,0,VFD Fault
+7.88,55.02,1.64,1,233.84,0,0,1,PLC Communication Failure
+1.24,43.6,0.85,1,226.03,1,1,0,VFD Fault
+2.72,35.36,2.41,1,239.26,1,1,0,VFD Fault
+21.79,97.7,2.38,1,238.65,0,1,1,Motor Overload
+1.14,35.98,1.2,1,219.82,1,1,0,VFD Fault
+27.23,106.72,5.57,1,237.29,0,1,1,Motor Overload
+9.58,64.87,0.54,1,228.94,0,0,1,PLC Communication Failure
+1.17,49.49,1.64,1,175.85,0,1,0,Power Supply Failure
+8.89,45.02,1.18,1,226.5,0,0,1,PLC Communication Failure
+10.58,64.09,0.75,1,229.8,0,1,1,Normal Operation
+27.57,99.27,5.12,1,235.05,0,1,1,Motor Overload
+6.55,57.02,2.57,1,229.84,0,0,1,PLC Communication Failure
+1.86,41.83,0.63,1,174.17,0,1,0,Power Supply Failure
+9.1,44.67,2.24,1,238.92,0,0,1,PLC Communication Failure
+0.22,37.7,0.8,1,194.69,0,1,0,Power Supply Failure
+7.36,53.33,2.02,1,221.68,0,1,1,Normal Operation
+2.69,50.65,1.58,1,229.95,1,1,0,VFD Fault
+8.37,52.15,0.62,1,225.11,0,0,1,PLC Communication Failure
+10.17,47.09,2.87,0,224.16,0,1,1,Sensor Failure
+10.19,56.93,1.45,0,227.93,0,1,1,Sensor Failure
+2.77,41.04,2.82,1,215.45,1,1,0,VFD Fault
+6.92,47.04,1.82,1,215.02,0,1,1,Normal Operation
+5.18,60.09,0.69,1,219.87,0,0,1,PLC Communication Failure
+8.44,61.79,2.37,0,235.03,0,1,1,Sensor Failure
+24.37,99.89,5.82,1,222.52,0,1,1,Motor Overload
+8.18,53.1,1.14,0,237.97,0,1,1,Sensor Failure
+23.08,104.89,5.23,1,228.87,0,1,1,Motor Overload
+10.82,59.64,1.38,0,234.69,0,1,1,Sensor Failure
+9.22,46.34,2.47,1,216.61,0,1,1,Normal Operation
+26.14,108.22,2.59,1,232.49,0,1,1,Motor Overload
+20.22,109.91,5.52,1,234.53,0,1,1,Motor Overload
+2.06,49.68,0.85,1,218.82,1,1,0,VFD Fault
+1.55,39.73,1.01,1,171.56,0,1,0,Power Supply Failure
+23.57,81.25,3.98,1,217.11,0,1,1,Motor Overload
+0.16,40.31,2.14,1,166.95,0,1,0,Power Supply Failure
+1.24,60.85,2.11,1,194.49,0,1,0,Power Supply Failure
+1.32,45.57,2.28,1,215.46,1,1,0,VFD Fault
+10.95,63.94,1.66,1,216.19,0,1,1,Normal Operation
+7.5,42.94,1.4,0,216.38,0,1,1,Sensor Failure
+1.43,55.23,1.35,1,216.78,1,1,0,VFD Fault
+11.46,52.03,2.26,1,218.73,0,1,1,Normal Operation
+0.15,60.95,0.58,1,193.35,0,1,0,Power Supply Failure
+21.06,82.54,3.37,1,237.16,0,1,1,Motor Overload
+6.23,59.69,0.71,0,219.41,0,1,1,Sensor Failure
+0.16,64.34,1.69,1,218.27,1,1,0,VFD Fault
+2.94,58.63,2.08,1,238.23,1,1,0,VFD Fault
+1.84,51.51,0.7,1,236.24,1,1,0,VFD Fault
+26.37,93.11,5.33,1,220.67,0,1,1,Motor Overload
+29.44,107.49,3.92,1,222.42,0,1,1,Motor Overload
+1.79,57.68,1.4,1,215.27,1,1,0,VFD Fault
+9.49,55.28,1.33,1,231.16,0,1,1,Normal Operation
+7.79,49.16,1.95,1,227.52,0,0,1,PLC Communication Failure
+27.34,101.58,3.73,1,236.42,0,1,1,Motor Overload
+20.51,108.77,5.2,1,238.4,0,1,1,Motor Overload
+6.12,55.2,1.18,1,221.82,0,1,1,Normal Operation
+8.48,35.99,1.06,1,233.1,0,0,1,PLC Communication Failure
+21.14,94.0,2.18,1,234.46,0,1,1,Motor Overload
+7.52,58.48,1.02,1,219.67,0,0,1,PLC Communication Failure
+9.51,63.5,1.21,1,232.32,0,0,1,PLC Communication Failure
+2.77,48.66,2.68,1,227.06,1,1,0,VFD Fault
+9.83,35.49,2.9,1,229.64,0,0,1,PLC Communication Failure
+0.45,40.36,2.76,1,228.74,1,1,0,VFD Fault
+0.27,53.53,2.66,1,175.44,0,1,0,Power Supply Failure
+23.11,82.83,4.99,1,231.54,0,1,1,Motor Overload
+8.87,41.35,2.55,1,227.47,0,0,1,PLC Communication Failure
+0.86,50.82,2.36,1,187.48,0,1,0,Power Supply Failure
+24.13,95.68,5.06,1,229.31,0,1,1,Motor Overload
+1.43,50.25,1.59,1,179.59,0,1,0,Power Supply Failure
+20.58,107.63,2.66,1,222.76,0,1,1,Motor Overload
+6.38,58.34,0.55,0,223.16,0,1,1,Sensor Failure
+1.44,57.82,2.27,1,175.73,0,1,0,Power Supply Failure
+5.58,46.71,1.14,1,219.25,0,1,1,Normal Operation
+8.74,37.03,0.74,0,218.84,0,1,1,Sensor Failure
+9.63,47.95,2.37,1,226.45,0,1,1,Normal Operation
+2.79,59.55,1.96,1,221.59,1,1,0,VFD Fault
+8.49,49.81,0.93,0,239.47,0,1,1,Sensor Failure
+9.85,36.2,0.57,1,228.97,0,1,1,Normal Operation
+9.98,54.69,1.63,1,230.81,0,1,1,Normal Operation
+6.47,52.63,1.08,1,216.61,0,1,1,Normal Operation
+20.48,88.34,3.22,1,217.98,0,1,1,Motor Overload
+1.56,43.55,1.34,1,236.14,1,1,0,VFD Fault
+9.34,62.99,0.88,0,225.57,0,1,1,Sensor Failure
+1.61,39.09,1.3,1,224.21,1,1,0,VFD Fault
+8.81,49.69,2.63,0,223.06,0,1,1,Sensor Failure
+7.27,63.46,0.61,0,225.03,0,1,1,Sensor Failure
+9.75,60.38,1.36,0,219.43,0,1,1,Sensor Failure
+5.83,42.34,1.32,1,233.28,0,1,1,Normal Operation
+1.51,57.7,2.98,1,238.21,1,1,0,VFD Fault
+5.65,60.33,0.94,1,234.12,0,0,1,PLC Communication Failure
+1.51,50.07,2.93,1,221.47,1,1,0,VFD Fault
+5.25,63.79,1.78,0,225.82,0,1,1,Sensor Failure
+1.28,60.61,1.09,1,228.71,1,1,0,VFD Fault
+20.69,98.03,2.48,1,224.31,0,1,1,Motor Overload
+5.78,53.26,2.9,1,225.05,0,0,1,PLC Communication Failure
+6.31,63.13,1.25,1,221.38,0,1,1,Normal Operation
+9.35,43.2,2.7,0,228.41,0,1,1,Sensor Failure
+0.14,42.13,0.88,1,215.22,1,1,0,VFD Fault
+9.11,54.93,1.59,1,233.9,0,0,1,PLC Communication Failure
+6.18,57.22,2.46,1,218.42,0,0,1,PLC Communication Failure
+1.11,51.93,2.96,1,177.75,0,1,0,Power Supply Failure
+1.17,48.45,1.2,1,236.39,1,1,0,VFD Fault
+2.64,42.96,1.48,1,225.63,1,1,0,VFD Fault
+0.49,56.41,2.98,1,223.54,1,1,0,VFD Fault
+6.66,50.83,0.67,1,238.29,0,0,1,PLC Communication Failure
+26.35,94.13,4.26,1,217.86,0,1,1,Motor Overload
+0.88,61.64,2.41,1,219.99,1,1,0,VFD Fault
+27.98,83.16,2.27,1,233.65,0,1,1,Motor Overload
+11.27,38.01,2.85,0,218.02,0,1,1,Sensor Failure
+0.27,36.16,1.02,1,189.3,0,1,0,Power Supply Failure
+2.86,54.8,2.31,1,229.99,1,1,0,VFD Fault
+9.02,40.5,1.67,1,231.27,0,1,1,Normal Operation
+27.54,85.95,5.64,1,218.58,0,1,1,Motor Overload
+6.69,52.08,0.78,0,230.5,0,1,1,Sensor Failure
+0.94,38.42,2.82,1,238.69,1,1,0,VFD Fault
+1.06,42.72,1.76,1,218.8,1,1,0,VFD Fault
+1.32,38.85,2.45,1,186.85,0,1,0,Power Supply Failure
+7.69,62.94,0.87,1,239.93,0,1,1,Normal Operation
+0.57,57.48,1.33,1,168.82,0,1,0,Power Supply Failure
+9.43,46.79,0.82,0,218.81,0,1,1,Sensor Failure
+2.95,58.86,2.9,1,192.54,0,1,0,Power Supply Failure
+5.14,42.49,0.8,1,220.42,0,1,1,Normal Operation
+12.0,35.22,0.9,1,231.85,0,1,1,Normal Operation
+19.61,85.24,2.21,1,215.53,0,1,1,Motor Overload
+11.39,39.53,2.78,1,237.56,0,0,1,PLC Communication Failure
+0.13,49.25,2.01,1,221.14,1,1,0,VFD Fault
+8.88,44.62,1.65,0,231.47,0,1,1,Sensor Failure
+2.91,47.4,2.56,1,221.42,1,1,0,VFD Fault
+11.92,59.55,1.83,0,219.68,0,1,1,Sensor Failure
+10.6,60.61,0.88,1,229.57,0,0,1,PLC Communication Failure
+7.56,55.92,1.99,1,220.19,0,1,1,Normal Operation
+7.39,36.5,0.88,0,238.02,0,1,1,Sensor Failure
+8.54,42.05,0.76,1,223.46,0,0,1,PLC Communication Failure
+0.93,48.03,2.42,1,235.16,1,1,0,VFD Fault
+1.78,59.31,1.44,1,228.26,1,1,0,VFD Fault
+10.71,44.63,2.4,1,238.49,0,1,1,Normal Operation
+8.64,47.24,0.53,0,234.9,0,1,1,Sensor Failure
+6.29,39.97,0.61,1,236.83,0,1,1,Normal Operation
+29.07,94.91,2.54,1,224.81,0,1,1,Motor Overload
+5.92,38.77,1.84,0,225.86,0,1,1,Sensor Failure
+1.34,49.43,2.46,1,189.45,0,1,0,Power Supply Failure
+5.24,55.49,2.88,1,235.73,0,0,1,PLC Communication Failure
+23.99,99.04,3.37,1,215.44,0,1,1,Motor Overload
+1.37,38.26,0.53,1,221.21,1,1,0,VFD Fault
+1.4,50.66,2.28,1,175.38,0,1,0,Power Supply Failure
+1.58,42.89,1.96,1,194.71,0,1,0,Power Supply Failure
+6.19,54.28,2.93,1,221.18,0,0,1,PLC Communication Failure
+10.31,64.5,2.31,0,229.17,0,1,1,Sensor Failure
+10.8,56.32,1.92,0,228.77,0,1,1,Sensor Failure
+0.08,35.14,0.6,1,181.88,0,1,0,Power Supply Failure
+1.12,43.39,0.58,1,230.36,1,1,0,VFD Fault
+0.94,60.44,2.99,1,191.7,0,1,0,Power Supply Failure
+10.37,46.29,1.45,1,225.78,0,1,1,Normal Operation
+7.02,42.24,0.71,1,227.41,0,0,1,PLC Communication Failure
+6.75,39.18,2.65,1,220.66,0,0,1,PLC Communication Failure
+9.39,45.6,2.2,1,234.26,0,0,1,PLC Communication Failure
+6.71,60.63,0.59,1,232.72,0,1,1,Normal Operation
+2.17,37.07,2.32,1,222.2,1,1,0,VFD Fault
+6.49,49.09,2.65,0,237.81,0,1,1,Sensor Failure
+6.33,40.79,1.85,1,218.22,0,1,1,Normal Operation
+0.19,64.32,1.09,1,169.61,0,1,0,Power Supply Failure
+0.04,51.0,0.94,1,230.33,1,1,0,VFD Fault
+20.63,108.08,3.75,1,218.94,0,1,1,Motor Overload
+2.92,58.87,1.86,1,191.97,0,1,0,Power Supply Failure
+9.26,52.43,1.49,0,222.98,0,1,1,Sensor Failure
+5.9,62.92,1.76,1,235.49,0,1,1,Normal Operation
+1.56,42.9,1.55,1,224.16,1,1,0,VFD Fault
+8.16,47.07,2.42,1,237.33,0,0,1,PLC Communication Failure
+9.3,43.35,0.75,1,230.16,0,1,1,Normal Operation
+2.08,61.16,2.01,1,218.34,1,1,0,VFD Fault
+7.62,48.38,1.52,1,219.55,0,1,1,Normal Operation
+7.31,62.96,2.2,1,239.36,0,0,1,PLC Communication Failure
+1.29,46.3,2.57,1,218.46,1,1,0,VFD Fault
+6.14,44.97,1.33,1,226.35,0,1,1,Normal Operation
+2.5,60.8,2.83,1,180.86,0,1,0,Power Supply Failure
+11.99,49.77,0.65,1,229.9,0,1,1,Normal Operation
+7.75,61.79,0.51,1,222.47,0,0,1,PLC Communication Failure
+11.11,55.37,0.73,1,229.81,0,0,1,PLC Communication Failure
+9.33,39.88,0.51,0,236.33,0,1,1,Sensor Failure
+6.53,41.25,1.66,0,224.2,0,1,1,Sensor Failure
+10.71,46.5,2.43,1,235.07,0,0,1,PLC Communication Failure
+9.02,49.02,2.04,1,226.18,0,0,1,PLC Communication Failure
+5.62,47.21,2.86,1,238.77,0,0,1,PLC Communication Failure
+2.61,57.55,1.77,1,233.09,1,1,0,VFD Fault
+0.52,64.08,2.33,1,224.22,1,1,0,VFD Fault
+9.62,52.99,2.32,0,226.53,0,1,1,Sensor Failure
+9.82,63.32,1.57,1,237.53,0,1,1,Normal Operation
+1.28,54.88,2.18,1,176.13,0,1,0,Power Supply Failure
+2.14,53.31,2.44,1,235.26,1,1,0,VFD Fault
+9.59,41.3,2.95,1,217.45,0,1,1,Normal Operation
+8.36,48.69,2.41,0,234.06,0,1,1,Sensor Failure
+0.45,42.74,2.23,1,239.68,1,1,0,VFD Fault
+5.68,60.37,1.26,0,228.82,0,1,1,Sensor Failure
+11.98,39.81,1.01,1,228.49,0,0,1,PLC Communication Failure
+7.74,44.88,2.82,0,238.32,0,1,1,Sensor Failure
+10.71,56.71,2.67,1,237.67,0,1,1,Normal Operation
+0.41,59.08,1.17,1,172.64,0,1,0,Power Supply Failure
+1.89,58.45,1.57,1,190.69,0,1,0,Power Supply Failure
+5.21,45.39,1.29,0,216.95,0,1,1,Sensor Failure
+10.85,35.54,1.24,0,231.59,0,1,1,Sensor Failure
+10.86,37.42,2.71,1,234.94,0,0,1,PLC Communication Failure
+0.61,40.64,1.35,1,232.59,1,1,0,VFD Fault
+0.79,37.01,1.51,1,217.01,1,1,0,VFD Fault
+0.61,52.06,2.78,1,183.78,0,1,0,Power Supply Failure
+10.12,48.45,0.54,1,239.1,0,1,1,Normal Operation
+9.0,47.67,1.9,1,223.57,0,0,1,PLC Communication Failure
+2.53,44.44,2.43,1,234.12,1,1,0,VFD Fault
+11.06,58.94,0.76,0,237.6,0,1,1,Sensor Failure
+11.88,63.93,0.86,1,232.87,0,1,1,Normal Operation
+1.64,48.23,2.36,1,189.89,0,1,0,Power Supply Failure
+10.33,55.95,1.2,1,232.72,0,1,1,Normal Operation
+24.09,91.55,4.56,1,236.44,0,1,1,Motor Overload
+7.33,47.94,1.77,0,227.24,0,1,1,Sensor Failure
+9.32,39.55,1.04,1,221.75,0,1,1,Normal Operation
+9.88,60.77,0.81,1,238.15,0,0,1,PLC Communication Failure
+5.32,49.44,1.67,0,221.49,0,1,1,Sensor Failure
+5.82,38.1,2.09,1,223.79,0,0,1,PLC Communication Failure
+21.56,91.03,3.47,1,225.42,0,1,1,Motor Overload
+6.89,61.55,0.84,0,234.77,0,1,1,Sensor Failure
+26.0,97.17,2.58,1,234.6,0,1,1,Motor Overload
+2.08,53.66,2.03,1,169.05,0,1,0,Power Supply Failure
+25.82,94.33,5.05,1,239.55,0,1,1,Motor Overload
+1.49,46.08,1.09,1,192.9,0,1,0,Power Supply Failure
+5.01,41.37,2.19,0,216.65,0,1,1,Sensor Failure
+0.3,50.45,1.36,1,225.53,1,1,0,VFD Fault
+8.79,56.04,2.78,0,220.06,0,1,1,Sensor Failure
+20.77,95.03,2.61,1,226.55,0,1,1,Motor Overload
+23.68,99.56,5.47,1,224.35,0,1,1,Motor Overload
+27.55,109.15,4.0,1,222.76,0,1,1,Motor Overload
+7.96,51.57,2.58,0,219.41,0,1,1,Sensor Failure
+10.44,50.53,2.85,0,237.2,0,1,1,Sensor Failure
+1.59,63.68,0.89,1,173.74,0,1,0,Power Supply Failure
+10.7,57.34,1.63,1,238.17,0,0,1,PLC Communication Failure
+6.52,55.76,2.22,1,228.48,0,0,1,PLC Communication Failure
+1.84,37.32,2.45,1,192.92,0,1,0,Power Supply Failure
+9.58,56.3,2.29,1,236.88,0,1,1,Normal Operation
+23.49,84.1,4.3,1,222.41,0,1,1,Motor Overload
+20.32,83.51,2.35,1,238.28,0,1,1,Motor Overload
+1.18,42.22,1.4,1,179.02,0,1,0,Power Supply Failure
+10.69,57.09,1.05,1,226.28,0,1,1,Normal Operation
+0.13,37.94,1.19,1,225.35,1,1,0,VFD Fault
+7.9,38.72,1.53,1,228.92,0,1,1,Normal Operation
+6.8,57.57,1.49,0,233.44,0,1,1,Sensor Failure
+10.02,57.8,1.94,1,236.57,0,0,1,PLC Communication Failure
+7.65,54.46,2.92,1,216.44,0,1,1,Normal Operation
+19.57,107.75,2.4,1,235.84,0,1,1,Motor Overload
+11.64,37.75,1.32,1,220.87,0,1,1,Normal Operation
+5.76,38.81,0.87,1,239.53,0,1,1,Normal Operation
+2.43,52.83,2.7,1,168.03,0,1,0,Power Supply Failure
+2.0,36.55,1.69,1,237.16,1,1,0,VFD Fault
+0.87,55.67,2.77,1,182.07,0,1,0,Power Supply Failure
+1.79,51.92,2.3,1,216.47,1,1,0,VFD Fault
+0.22,64.62,0.61,1,233.7,1,1,0,VFD Fault
+1.23,57.41,1.43,1,170.86,0,1,0,Power Supply Failure
+0.28,44.32,0.97,1,193.93,0,1,0,Power Supply Failure
+22.58,91.11,3.88,1,239.19,0,1,1,Motor Overload
+0.29,62.7,1.11,1,187.64,0,1,0,Power Supply Failure
+9.54,58.49,2.04,1,227.39,0,1,1,Normal Operation
+8.94,61.46,2.17,1,226.79,0,1,1,Normal Operation
+6.14,51.9,1.42,1,230.65,0,0,1,PLC Communication Failure
+6.98,51.84,0.89,0,236.86,0,1,1,Sensor Failure
+1.62,48.14,2.86,1,188.12,0,1,0,Power Supply Failure
+9.57,38.73,1.24,1,237.83,0,0,1,PLC Communication Failure
+6.12,53.31,2.48,1,235.55,0,1,1,Normal Operation
+10.33,44.49,1.01,1,226.34,0,1,1,Normal Operation
+2.98,47.87,1.58,1,181.04,0,1,0,Power Supply Failure
+1.99,37.03,1.78,1,221.46,1,1,0,VFD Fault
+12.0,50.49,2.13,0,239.8,0,1,1,Sensor Failure
+22.13,106.91,2.94,1,228.52,0,1,1,Motor Overload
+0.86,57.68,2.62,1,171.72,0,1,0,Power Supply Failure
+0.47,60.12,0.79,1,190.04,0,1,0,Power Supply Failure
+27.49,100.94,5.35,1,238.19,0,1,1,Motor Overload
+11.3,56.77,0.67,1,232.3,0,0,1,PLC Communication Failure
+28.47,83.96,4.46,1,232.37,0,1,1,Motor Overload
+25.97,83.18,2.56,1,228.88,0,1,1,Motor Overload
+9.14,45.16,1.62,1,236.6,0,0,1,PLC Communication Failure
+1.24,54.15,1.68,1,167.81,0,1,0,Power Supply Failure
+2.29,63.27,0.56,1,230.03,1,1,0,VFD Fault
+2.78,51.88,2.39,1,189.8,0,1,0,Power Supply Failure
+6.77,43.84,1.74,0,217.77,0,1,1,Sensor Failure
+28.14,84.6,2.72,1,218.07,0,1,1,Motor Overload
+11.82,41.12,2.06,1,225.5,0,1,1,Normal Operation
+7.01,55.37,0.64,1,238.9,0,1,1,Normal Operation
+0.15,37.0,1.98,1,184.13,0,1,0,Power Supply Failure
+11.09,55.95,2.19,1,228.13,0,0,1,PLC Communication Failure
+2.55,54.18,2.46,1,192.52,0,1,0,Power Supply Failure
+0.9,56.25,2.03,1,222.69,1,1,0,VFD Fault
+0.54,49.81,1.67,1,178.52,0,1,0,Power Supply Failure
+10.06,50.59,1.42,1,216.26,0,0,1,PLC Communication Failure
+0.45,49.67,1.75,1,239.73,1,1,0,VFD Fault
+10.18,64.65,2.62,1,229.49,0,0,1,PLC Communication Failure
+7.83,57.8,1.24,0,224.28,0,1,1,Sensor Failure
+27.2,98.9,5.4,1,227.61,0,1,1,Motor Overload
+7.0,57.18,1.1,1,231.79,0,0,1,PLC Communication Failure
+11.85,46.31,2.36,0,215.58,0,1,1,Sensor Failure
+5.69,36.29,2.3,1,234.03,0,1,1,Normal Operation
+6.13,37.81,1.87,1,223.23,0,1,1,Normal Operation
+26.81,85.19,2.37,1,237.1,0,1,1,Motor Overload
+21.92,109.08,5.12,1,232.49,0,1,1,Motor Overload
+5.64,55.02,1.6,0,218.15,0,1,1,Sensor Failure
+25.28,92.49,2.2,1,221.23,0,1,1,Motor Overload
+10.89,64.73,0.9,1,234.99,0,0,1,PLC Communication Failure
+2.19,56.85,0.61,1,215.12,1,1,0,VFD Fault
+8.29,49.28,0.93,0,237.26,0,1,1,Sensor Failure
+0.19,62.47,1.92,1,178.35,0,1,0,Power Supply Failure
+22.67,106.95,5.05,1,231.78,0,1,1,Motor Overload
+1.4,45.66,1.37,1,232.92,1,1,0,VFD Fault
+2.4,48.19,2.96,1,192.18,0,1,0,Power Supply Failure
+2.33,42.94,1.57,1,172.59,0,1,0,Power Supply Failure
+7.04,61.45,2.32,1,234.97,0,0,1,PLC Communication Failure
+11.14,63.79,1.07,1,238.3,0,0,1,PLC Communication Failure
+6.0,43.65,0.99,1,215.67,0,1,1,Normal Operation
+2.49,58.11,1.34,1,184.75,0,1,0,Power Supply Failure
+2.77,55.07,0.63,1,176.77,0,1,0,Power Supply Failure
+11.13,53.31,0.56,0,225.0,0,1,1,Sensor Failure
+10.64,42.42,1.89,1,222.44,0,0,1,PLC Communication Failure
+9.97,49.05,2.73,1,220.75,0,0,1,PLC Communication Failure
+5.42,55.95,0.78,0,224.61,0,1,1,Sensor Failure
+0.07,60.88,2.59,1,217.22,1,1,0,VFD Fault
+29.19,99.32,5.29,1,224.27,0,1,1,Motor Overload
+6.78,41.9,2.96,1,232.65,0,1,1,Normal Operation
+26.14,100.11,5.05,1,230.94,0,1,1,Motor Overload
+2.57,49.9,1.84,1,193.91,0,1,0,Power Supply Failure
+21.56,95.92,4.42,1,234.92,0,1,1,Motor Overload
+8.24,59.79,2.21,1,231.08,0,1,1,Normal Operation
+8.73,54.27,1.66,1,225.49,0,0,1,PLC Communication Failure
+6.38,60.83,2.56,1,237.55,0,0,1,PLC Communication Failure
+2.25,54.66,0.74,1,238.75,1,1,0,VFD Fault
+27.81,81.47,2.94,1,233.49,0,1,1,Motor Overload
+0.72,36.17,1.74,1,218.1,1,1,0,VFD Fault
+0.08,45.17,1.32,1,217.24,1,1,0,VFD Fault
+1.32,57.55,1.28,1,168.93,0,1,0,Power Supply Failure
+25.93,90.85,2.35,1,222.54,0,1,1,Motor Overload
+0.65,48.92,2.86,1,233.35,1,1,0,VFD Fault
+0.21,61.05,1.42,1,229.19,1,1,0,VFD Fault
+2.88,58.38,1.11,1,165.82,0,1,0,Power Supply Failure
+5.05,45.08,2.65,0,219.19,0,1,1,Sensor Failure
+11.07,45.94,0.51,1,227.68,0,1,1,Normal Operation
+6.27,50.89,2.27,1,229.38,0,0,1,PLC Communication Failure
+7.12,40.19,2.99,1,216.59,0,1,1,Normal Operation
+6.98,52.9,1.59,1,238.08,0,1,1,Normal Operation
+2.73,61.02,3.0,1,191.69,0,1,0,Power Supply Failure
+11.43,42.46,2.72,1,217.44,0,1,1,Normal Operation
+6.23,39.04,1.02,0,225.57,0,1,1,Sensor Failure
+9.82,50.98,1.47,1,235.31,0,0,1,PLC Communication Failure
+10.51,47.99,1.6,1,221.13,0,1,1,Normal Operation
+26.32,99.5,2.36,1,239.98,0,1,1,Motor Overload
+10.74,35.96,1.48,1,236.77,0,0,1,PLC Communication Failure
+7.66,62.73,2.41,1,226.18,0,1,1,Normal Operation
+1.71,46.35,2.59,1,165.13,0,1,0,Power Supply Failure
+28.86,84.21,4.22,1,235.66,0,1,1,Motor Overload
+1.53,56.89,2.62,1,226.81,1,1,0,VFD Fault
+8.25,41.28,2.56,1,219.96,0,0,1,PLC Communication Failure
+7.24,64.28,1.14,0,230.64,0,1,1,Sensor Failure
+0.51,64.17,2.76,1,174.96,0,1,0,Power Supply Failure
+5.7,38.22,2.72,0,238.24,0,1,1,Sensor Failure
+1.49,41.27,1.0,1,229.34,1,1,0,VFD Fault
+9.49,58.71,2.06,1,228.44,0,0,1,PLC Communication Failure
+5.51,63.34,1.61,1,231.88,0,0,1,PLC Communication Failure
+0.72,42.94,0.6,1,217.71,1,1,0,VFD Fault
+2.47,48.65,1.53,1,219.42,1,1,0,VFD Fault
+6.38,46.32,2.84,0,226.69,0,1,1,Sensor Failure
+25.5,99.6,3.2,1,233.56,0,1,1,Motor Overload
+1.69,64.6,1.65,1,217.32,1,1,0,VFD Fault
+29.83,88.65,4.94,1,239.25,0,1,1,Motor Overload
+11.21,53.9,1.8,1,225.71,0,0,1,PLC Communication Failure
+0.97,35.49,1.63,1,236.07,1,1,0,VFD Fault
+0.14,36.21,2.26,1,192.09,0,1,0,Power Supply Failure
+8.44,59.17,2.74,1,216.75,0,0,1,PLC Communication Failure
+9.28,51.61,2.68,0,221.34,0,1,1,Sensor Failure
+24.21,88.01,3.33,1,229.29,0,1,1,Motor Overload
+28.75,107.63,4.01,1,233.42,0,1,1,Motor Overload
+5.01,38.36,1.49,0,225.42,0,1,1,Sensor Failure
+0.17,41.6,2.28,1,179.87,0,1,0,Power Supply Failure
+8.55,48.11,1.35,1,221.25,0,0,1,PLC Communication Failure
+8.94,38.06,2.47,0,219.63,0,1,1,Sensor Failure

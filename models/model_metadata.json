@@ -1,0 +1,27 @@
+{
+    "model_name": "DecisionTreeClassifier",
+    "features": [
+        "motor_current",
+        "motor_temperature",
+        "vibration",
+        "sensor_status",
+        "voltage",
+        "vfd_fault",
+        "plc_communication",
+        "machine_running"
+    ],
+    "classes": [
+        "Motor Overload",
+        "Sensor Failure",
+        "Power Supply Failure",
+        "VFD Fault",
+        "PLC Communication Failure",
+        "Normal Operation"
+    ],
+    "accuracy": 1.0,
+    "training_samples": 480,
+    "testing_samples": 120,
+    "dataset_samples": 600,
+    "random_state": 42,
+    "dataset_type": "Synthetic educational dataset"
+}
