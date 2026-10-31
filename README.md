@@ -10,7 +10,7 @@ Users enter machine operating measurements. A ML classifier predicts one of six 
 
 ## Features
 
-- Machine fault classification using Decision Tree.
+- Machine fault classification using ML.
 - Six categories: Motor Overload, Sensor Failure, Power Supply Failure, VFD Fault, PLC Communication Failure and Normal Operation.
 - Fault probability visualization.
 - Gemini AI diagnostic reports.
