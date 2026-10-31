@@ -12,6 +12,7 @@ from google import genai
 # --------------------------------------------------
 
 
+
 def get_gemini_client():
 
     import os
@@ -19,26 +20,33 @@ def get_gemini_client():
     from pathlib import Path
     from google import genai
 
-    # Read the local secrets file first
-    secrets_path = (
-        Path(__file__).resolve().parent
-        / ".streamlit"
-        / "secrets.toml"
-    )
-
     api_key = None
 
-    if secrets_path.exists():
-        with open(secrets_path, "rb") as file:
-            secrets_data = tomllib.load(file)
+    # Streamlit Cloud secrets
+    try:
+        api_key = st.secrets["GEMINI_API_KEY"]
+    except Exception:
+        pass
 
-        api_key = secrets_data.get("GEMINI_API_KEY")
+    # Local secrets.toml
+    if not api_key:
+        secrets_path = (
+            Path(__file__).resolve().parent
+            / ".streamlit"
+            / "secrets.toml"
+        )
+
+        if secrets_path.exists():
+            with open(secrets_path, "rb") as file:
+                secrets_data = tomllib.load(file)
+
+            api_key = secrets_data.get("GEMINI_API_KEY")
 
     # Environment variable fallback
     if not api_key:
         api_key = os.getenv("GEMINI_API_KEY")
 
-    if not api_key or api_key == "YOUR_GEMINI_API_KEY":
+    if not api_key:
         return None
 
     return genai.Client(api_key=api_key)
