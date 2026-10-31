@@ -5,9 +5,9 @@ import json
 import joblib
 import numpy as np
 import pandas as pd
-
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
+
 from sklearn.metrics import (
     accuracy_score,
     classification_report,
@@ -169,18 +169,22 @@ print("Testing observations:", len(X_test))
 
 
 # --------------------------------------------------
-# 6. TRAIN THE DECISION TREE MODEL
+# 6. TRAIN THE RANDOM FOREST MODEL
 # --------------------------------------------------
 
-model = DecisionTreeClassifier(
+model = RandomForestClassifier(
+    n_estimators=200,
     max_depth=6,
-    min_samples_split=4,
+    min_samples_split=10,
+    min_samples_leaf=5,
+    max_features="sqrt",
+    class_weight="balanced",
     random_state=RANDOM_STATE
 )
 
 model.fit(X_train, y_train)
 
-print("\nModel training completed.")
+print("\nRandom Forest training completed.")
 
 
 # --------------------------------------------------
