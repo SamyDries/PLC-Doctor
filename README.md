@@ -6,7 +6,7 @@
 
 PLC Doctor combines Machine Learning and Google's Gemini AI to help technicians perform preliminary industrial fault diagnosis.
 
-Users enter machine operating measurements. A Decision Tree classifier predicts one of six conditions, and Gemini generates an explanation with possible causes, verification steps and safety precautions.
+Users enter machine operating measurements. A ML classifier predicts one of six conditions, and Gemini generates an explanation with possible causes, verification steps and safety precautions.
 
 ## Features
 
@@ -58,13 +58,9 @@ pip install -r requirements.txt
 
 Create .streamlit/secrets.toml and add:
 
-\\\	oml
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
-\\\
+ your own Google Gemini API key.
 
-Replace the placeholder with your own Google Gemini API key.
-
-Never publish your API key.
+Never publish your API key ;)
 
 ## Run the Application
 
